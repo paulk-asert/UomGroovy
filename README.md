@@ -1,6 +1,6 @@
 # Unit of Measurement with Groovy
 
-![Marvin the Martian](docs/images/DALL·E 2022-08-13 10.17.15 - marvin the martian on mars with the mars rover.png)
+![Marvin the Martian](./docs/images/DALL·E%202022-08-13%2010.17.15%20-%20marvin the martian on mars with the mars rover.png)
 
 Example code for:
 https://blogs.apache.org/groovy/entry/life-on-mars-units-of
